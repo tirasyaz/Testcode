@@ -127,5 +127,6 @@ class _SignUpPageState extends State<SignUpPage> {
         )
       ),
     );
-  }
+  }         //tira comel
+
 }
